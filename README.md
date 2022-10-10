@@ -1,3 +1,3 @@
 # Hotel-Del-Luna
 
-An app created with VB.net
+Hotel Reservation System app created with VB.net
